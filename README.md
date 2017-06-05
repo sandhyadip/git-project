@@ -6,4 +6,4 @@ after git pull-- writing new line
 
 I am in FirstBranch now.
 
-Creating conflict-FirstBranch
+Creating conflict-FirstBranch-------------test master
