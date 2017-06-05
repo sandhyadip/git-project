@@ -6,4 +6,4 @@ after git pull-- writing new line
 
 I am in FirstBranch now.
 
-After merging changing text in FirstBranch.
+Creating conflict-FirstBranch
