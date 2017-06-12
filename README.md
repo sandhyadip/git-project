@@ -1,3 +1,5 @@
 # git-project
-my own repositiry
+my own repositiry--this is firstBranch
+
+I'm in firstBranch
 
