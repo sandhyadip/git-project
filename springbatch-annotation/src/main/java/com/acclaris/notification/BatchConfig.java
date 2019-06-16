@@ -79,7 +79,7 @@ public class BatchConfig {
 	@Bean
 	public Step partitionStep() throws Exception {
 		return stepBuilderFactory().get("partitionStep")
-				.partitioner("slaveStep",partitioner())
+				.partitioner("slaveStep",partitioner()).gridSize(5)
 					.step(slaveStep())
 						.taskExecutor(taskExecutor()).build();
 	}
