@@ -1,0 +1,5 @@
+com\acclaris\notification\tasks\EventStageCaptureTaskletStep.class
+com\acclaris\notification\tasks\NotificationPartitioner.class
+com\acclaris\notification\BatchConfig.class
+com\acclaris\notification\tasks\EventServiceInvocationTaskletStep.class
+com\acclaris\notification\BatchMain.class
